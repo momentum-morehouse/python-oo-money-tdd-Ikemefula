@@ -36,3 +36,7 @@ To run the tests, make sure you have run `pipenv install` and `pipenv shell` and
 
 Take a look at [this guide to Python's magic methods](https://rszalski.github.io/magicmethods/). Write tests for using the standard mathematical operators (`+`, `-`, `*`, `/`) on `Money` and then implement the methods needed. To write these tests, look at the existing tests and modify them.
 
+
+pipenv shell 
+pytest -x
+
