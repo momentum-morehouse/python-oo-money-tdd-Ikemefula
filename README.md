@@ -30,7 +30,8 @@ After completing this assignment, you should be able to:
 
 Read the classes `Currency` and `Money` as well as their tests. Using the docstrings included, complete these classes. Upon completion, the tests in `money_test.py` should pass.
 
-To run the tests, make sure you have run `pipenv install` and `pipenv shell` and then run `pytest -x`.
+To run the tests, make sure you have run `pipenv install` and `pipenv shell` and then run `pytest-x'
+`.
 
 ### Step 2
 
